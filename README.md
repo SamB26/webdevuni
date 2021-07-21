@@ -2,7 +2,10 @@
 Web development project done at university.
 I created this website as part of a web development module at university. 
 We were given the following brief:
-System DescriptionYour task is to construct a website for a fictitious seller of computer games.  
+
+System Description
+
+Your task is to construct a website for a fictitious seller of computer games.  
 The site needs to have as minimum the following pages:
 
 1.Entrance page. This page should be increated usingHTML, CSS and Javascript. 
